@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐋 ORCA: Optimising Retention via Causal Analysis
 
 **ORCA** is a powerful, interactive Streamlit web application designed for uplift modeling and causal analysis. By leveraging advanced machine learning meta-learners (like T-Learner and S-Learner), ORCA helps you identify which customers are most likely to be positively influenced by a marketing campaign or intervention, thereby optimizing your retention strategies and maximizing ROI.
@@ -81,3 +82,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📄 License
 
 This project is licensed under the MIT License.
+=======
+# ML-ORCA-MODEL-
+>>>>>>> 15b6f78f77e484f5aeefdda0864de383c6aef2d0
